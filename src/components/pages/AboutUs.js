@@ -16,7 +16,6 @@ We make sure everything we do is through the lens of humanity – from our commi
         </p>
         
         </div>
-        <Footer/>
         </>
         
     )

@@ -13,7 +13,6 @@ Coffee is darkly colored, bitter, slightly acidic and has a stimulating effect i
         </p>
         
         </div>
-        <Footer/>
         </>
     );
 }

@@ -10,7 +10,6 @@ function Home() {
         <div className="home-page">
         <Cards />
         </div>
-        <Footer/>
         </>
     )
 }
