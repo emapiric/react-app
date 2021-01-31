@@ -1,13 +1,9 @@
 .cards {
   padding: 4rem;
-  background: #fff;
-}
-
-h1 {
-  text-align: center;
 }
 
 .cards__container {
+  background-color: #fff;
   display: flex;
   flex-flow: column;
   align-items: center;
@@ -66,7 +62,7 @@ h1 {
   font-size: 12px;
   font-weight: 700;
   color: #fff;
-  background-color: #1f98f4;
+  background-color: #301c09;
   box-sizing: border-box;
 }
 
